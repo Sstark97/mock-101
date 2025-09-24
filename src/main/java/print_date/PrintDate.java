@@ -14,5 +14,4 @@ public class PrintDate {
     String line = calendar.today().toString();
     printer.printLine(line);
   }
-
 }

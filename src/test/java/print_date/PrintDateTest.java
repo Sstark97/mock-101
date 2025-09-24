@@ -1,14 +1,27 @@
 package print_date;
 
+import java.util.Date;
+import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
+import org.mockito.Mockito;
 
 class PrintDateTest {
-  @Test
-  void printDate() {
-    PrintDate printDate = new PrintDate(new Calendar(), new Printer());
 
-    printDate.printCurrentDate();
+  @Nested
+  class WithSpyAndStrictMock {
 
-    // How can we test this function?
+    @Test
+    void should_print_current_date() {
+      Printer printer = Mockito.mock(Printer.class);
+      Calendar calendar = Mockito.mock(Calendar.class);
+      PrintDate printDate = new PrintDate(calendar, printer);
+
+      Mockito.when(calendar.today()).thenReturn(new Date());
+
+      printDate.printCurrentDate();
+
+      Mockito.verify(calendar).today();
+      Mockito.verify(printer).printLine(Mockito.anyString());
+    }
   }
 }
