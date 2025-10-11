@@ -1,0 +1,16 @@
+{
+  "name": "mock-101",
+  "version": "1.0.0",
+  "description": "Mock 101: El Arte del Testing",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "@types/node": "^20.0.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.0"
+  }
+}
