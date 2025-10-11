@@ -7,10 +7,22 @@ de test.
 Está estructurado de la siguiente manera:
 - En el paquete random_number se encuentra el ejercicio para practicar dummies y stubs.
 - En el paquete print_date se encuentra el ejercicio para practicar spies, mocks estrictos y fakes.
-- En la rama **main** tendremos el setup inicial para realizar los ejercicios.
-- En la rama **random_number_solution** se encuentra la solución al ejercicio de random_number hecha por nosotros.
-- En la rama **print_date_solution** se encuentra la solución al ejercicio de print_date hecha por nosotros.
-- En la rama **solutions_with_mockito** se encuentran las soluciones a los ejercicios de random_number y print_date utilizando Mockito.
+- En la rama **main** tendremos el setup inicial para realizar los ejercicios en **Java**.
+- En la rama **random_number_solution** se encuentra la solución al ejercicio de random_number hecha por nosotros **(Java)**.
+- En la rama **print_date_solution** se encuentra la solución al ejercicio de print_date hecha por nosotros **(Java)**.
+- En la rama **solutions_with_mockito** se encuentran las soluciones a los ejercicios de random_number y print_date utilizando Mockito **(Java)**.
+
+> **Nota:** Las soluciones a los ejercicios están disponibles únicamente en Java. Los templates en otros lenguajes están pensados para que practiques implementando las soluciones por tu cuenta.
+
+## Templates en Otros Lenguajes
+
+Este repositorio incluye implementaciones del template inicial en varios lenguajes de programación. Cada rama contiene la estructura base del proyecto con los tests configurados para que puedas practicar:
+
+- **Python**: [Rama python](https://github.com/Sstark97/mock-101/tree/python) - Usando pytest como framework de testing
+- **TypeScript**: [Rama typescript](https://github.com/Sstark97/mock-101/tree/typescript) - Usando Jest y ts-jest para testing
+- **C#**: [Rama csharp](https://github.com/Sstark97/mock-101/tree/csharp) - Usando xUnit como framework de testing
+- **Go**: [Rama go](https://github.com/Sstark97/mock-101/tree/go) - Usando el package testing estándar de Go
+- **Kotlin**: [Rama kotlin](https://github.com/Sstark97/mock-101/tree/kotlin) - Usando JUnit 5 con Maven
 
 ## Ejercicio 1: Random Number Kata
 Queremos crear un pequeño juego. El juego consiste en que un jugador intente adivinar un número aleatorio.
