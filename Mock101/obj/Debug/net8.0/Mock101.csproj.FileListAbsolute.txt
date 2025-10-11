@@ -1,0 +1,12 @@
+/Users/aitorsantana/Documents/dev/local-katas/mock-101/Mock101/bin/Debug/net8.0/Mock101.deps.json
+/Users/aitorsantana/Documents/dev/local-katas/mock-101/Mock101/bin/Debug/net8.0/Mock101.dll
+/Users/aitorsantana/Documents/dev/local-katas/mock-101/Mock101/bin/Debug/net8.0/Mock101.pdb
+/Users/aitorsantana/Documents/dev/local-katas/mock-101/Mock101/obj/Debug/net8.0/Mock101.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aitorsantana/Documents/dev/local-katas/mock-101/Mock101/obj/Debug/net8.0/Mock101.AssemblyInfoInputs.cache
+/Users/aitorsantana/Documents/dev/local-katas/mock-101/Mock101/obj/Debug/net8.0/Mock101.AssemblyInfo.cs
+/Users/aitorsantana/Documents/dev/local-katas/mock-101/Mock101/obj/Debug/net8.0/Mock101.csproj.CoreCompileInputs.cache
+/Users/aitorsantana/Documents/dev/local-katas/mock-101/Mock101/obj/Debug/net8.0/Mock101.sourcelink.json
+/Users/aitorsantana/Documents/dev/local-katas/mock-101/Mock101/obj/Debug/net8.0/Mock101.dll
+/Users/aitorsantana/Documents/dev/local-katas/mock-101/Mock101/obj/Debug/net8.0/refint/Mock101.dll
+/Users/aitorsantana/Documents/dev/local-katas/mock-101/Mock101/obj/Debug/net8.0/Mock101.pdb
+/Users/aitorsantana/Documents/dev/local-katas/mock-101/Mock101/obj/Debug/net8.0/ref/Mock101.dll
