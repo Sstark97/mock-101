@@ -47,6 +47,7 @@ La idea es muy simple, cómo probar un método que imprime la fecha actual.
 Ser capaz de probar la función printCurrentDate sin cambiar la firma del método.
 
 ## Recursos Adicionales
+
 Si quieres profundizar más en el tema de los dobles de test, hemos preparado material complementario que te ayudará a entender mejor los conceptos y a sacar el máximo provecho de estos ejercicios. Aquí encontrarás el guión del taller, las diapositivas utilizadas en las presentaciones y las grabaciones de las charlas donde explicamos estos conceptos en detalle.
 
 - 📖 [Guión del taller](./guion.md)
