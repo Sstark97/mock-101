@@ -45,3 +45,11 @@ La idea es muy simple, cómo probar un método que imprime la fecha actual.
 
 ### Reglas de Negocio
 Ser capaz de probar la función printCurrentDate sin cambiar la firma del método.
+
+## Recursos Adicionales
+Si quieres profundizar más en el tema de los dobles de test, hemos preparado material complementario que te ayudará a entender mejor los conceptos y a sacar el máximo provecho de estos ejercicios. Aquí encontrarás el guión del taller, las diapositivas utilizadas en las presentaciones y las grabaciones de las charlas donde explicamos estos conceptos en detalle.
+
+- 📖 [Guión del taller](./guion.md)
+- 📊 [Diapositivas: Mocks 101: El Arte del Testing](./Mocks%20101_%20El%20Arte%20del%20Testing.pdf)
+- 🎥 [El Arte de la Guerra... del Testing: Dobles de tests (Codemotion 2024)](https://www.youtube.com/watch?v=FEumxdULiV4&t=1s)
+- 🎥 [El Arte de la Guerra…del testing: Dobladores de Pruebas - T3chFest 10](https://youtu.be/Yxo70Ec-j0U?si=XFRP00VdqLk_TAGV)
